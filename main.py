@@ -1,5 +1,5 @@
 def retail_store():
- 
+ #dictionary of products with prices
   products = {
     "tshirt": 10,
     "jeans": 20,
